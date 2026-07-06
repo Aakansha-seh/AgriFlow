@@ -1,0 +1,17 @@
+{
+  "name": "AgriFlow Sampurna — Post-Harvest Decision Intelligence",
+  "short_name": "AgriFlow",
+  "description": "Sell / Store / Process / Wait decisions for Karnataka's farmers, powered by live mandi prices and weather. Works offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fafaf7",
+  "theme_color": "#14532d",
+  "lang": "en",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#15803d"/>
+      <stop offset="1" stop-color="#14532d"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="104" fill="url(#g)"/>
+  <!-- wheat stalk -->
+  <g stroke="#fef3c7" stroke-width="18" stroke-linecap="round" fill="none">
+    <path d="M256 420 V180"/>
+    <path d="M256 240 Q200 220 190 160 Q246 170 256 240"/>
+    <path d="M256 240 Q312 220 322 160 Q266 170 256 240"/>
+    <path d="M256 310 Q196 292 184 230 Q244 240 256 310"/>
+    <path d="M256 310 Q316 292 328 230 Q268 240 256 310"/>
+  </g>
+  <circle cx="256" cy="140" r="34" fill="#f59e0b"/>
+  <!-- upward arrow through the grain: value recovered -->
+  <path d="M256 122 l0 36 M242 136 l14 -16 14 16" stroke="#14532d" stroke-width="12" stroke-linecap="round" fill="none"/>
+</svg>
