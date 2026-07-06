@@ -62,13 +62,3 @@ Farmers: free, always. Revenue from: FPO/enterprise dashboards (SaaS), cold-stor
 
 FPO introductions in Kolar/Vijayapura, access to the Dept. of Horticulture cold-storage registry, mentorship on agronomy validation, and visibility — not cloud budget: the platform runs free by design.
 
----
-
-## Demo script (2 minutes, for judges)
-
-1. Open the live URL on a phone → switch UI to **ಕನ್ನಡ** (5 s).
-2. Advisor: *Tomato, 15 quintals, harvested today, Kolar* → engine fetches **LIVE** Agmarknet prices + weather → shows recommendation with confidence ring, 7-day price chart, nearest cold store, revenue delta (30 s).
-3. Tap **Mandi Prices** → live government data, LIVE badge (15 s).
-4. **Transport pool**: post 10 qtl Kolar→Bengaluru → instant match with 2 neighbours, ₹976 saving shown (20 s).
-5. **Dashboard**: district glut-risk signals + loss averted counter (15 s).
-6. Turn on airplane mode → app still works, data badged CACHED (15 s). *"This is what ₹0 infrastructure looks like."*
